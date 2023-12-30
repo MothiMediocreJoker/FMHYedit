@@ -36,7 +36,6 @@
 * [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewers
 
-***
 
 ## ▷ Download Managers
 
@@ -168,6 +167,14 @@
 * [Orange](https://github.com/naaive/orange)
 * [sist2](https://github.com/simon987/sist2)
 * [AstroGrep](https://sourceforge.net/projects/astrogrep/)
+
+***
+
+## Drive Formatting / File Deletion
+
+* **Note** - These just delete files, if you're looking for security and to leave no file traces, its best to encypt the whole disk instead.
+
+* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
 
 ***
 
